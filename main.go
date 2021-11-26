@@ -11,5 +11,6 @@ type Person struct {
 }
 
 func main() {
+	fmt.Println("Hello, World!")
 	fmt.Println("Starting Application")
 }
